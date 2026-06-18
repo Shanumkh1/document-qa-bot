@@ -4,3 +4,5 @@ pypdf
 python-docx
 python-dotenv
 tqdm
+sentence-transformers
+torch
